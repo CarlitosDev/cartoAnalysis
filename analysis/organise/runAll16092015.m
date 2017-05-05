@@ -1,0 +1,8 @@
+runFastICAallPoints_15092015_autoICs_ECG;
+runFastICAallPoints_15092015_autoICs_CATH;
+runFastICAallPoints_15092015_autoICs_BOTH;
+
+
+runFastICAallPoints_15092015_autoICs_BOTH_2_35;
+runFastICAallPoints_15092015_autoICs_ECG_2_35;
+runFastICAallPoints_15092015_autoICs_CATH_2_35;

@@ -1,2 +1,2 @@
 # cartoAnalysis
-Toolbox for analising and visualising data from intracardiac catheter recordings 
+Bunch of Matlab files for the analysis of EGM data as a part of my PhD.
